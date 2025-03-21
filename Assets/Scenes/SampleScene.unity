@@ -119,7 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+--- !u!1 &321789310
+=======
 --- !u!1 &652241707
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -127,8 +131,13 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 321789312}
+  - component: {fileID: 321789311}
+=======
   - component: {fileID: 652241709}
   - component: {fileID: 652241708}
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -136,13 +145,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!108 &321789311
+=======
 --- !u!108 &652241708
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
 Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 321789310}
+=======
   m_GameObject: {fileID: 652241707}
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
@@ -201,16 +218,27 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+<<<<<<< HEAD
+--- !u!4 &321789312
+=======
 --- !u!4 &652241709
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 321789310}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: -52, y: 3, z: 0}
+=======
   m_GameObject: {fileID: 652241707}
   serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
   m_LocalPosition: {x: 0, y: 3, z: 0}
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -220,4 +248,8 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< HEAD
+  - {fileID: 321789312}
+=======
   - {fileID: 652241709}
+>>>>>>> fcd2bc4db7f32c78e8213d01d3cbcfedf5d8c0dd
